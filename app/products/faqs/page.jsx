@@ -554,7 +554,7 @@ export default function FAQsPage() {
           We have two convenient options for opening a Money Market account with Kuza Asset Management:
           <br/>
           <strong>Option 1 for opening an account: Self-Registration via Kuza.Africa mobile App or Client Portal:</strong>
-          <br/>i. Visit the Kuza client portal at <a href="https://client.kuza.africa/self_registration?agent_no=00150">Kuza client portal</a> (instead of displaying the URL, display it in a user-friendly way as 'Kuza client portal') or Install the Kuza.Africa mobile app available on Google Play Store at <a href="https://play.google.com/store/apps/details?id=kuza.africa.kuza&hl=en&pli=1">https://play.google.com/store/apps/details?id=kuza.africa.kuza&hl=en&pli=1</a> for Android devices, or at <a href="https://apps.apple.com/ke/app/kuza-africa/id1662784344">https://apps.apple.com/ke/app/kuza-africa/id1662784344</a> for iPhones (can also get it on the App Store) then
+          <br/>i. Visit the Kuza client portal at <a href="https://client.kuza.africa/self_registration?agent_no=00150">Kuza client portal</a> or Install the Kuza.Africa mobile app available on Google Play Store at <a href="https://play.google.com/store/apps/details?id=kuza.africa.kuza&hl=en&pli=1">https://play.google.com/store/apps/details?id=kuza.africa.kuza&hl=en&pli=1</a> for Android devices, or at <a href="https://apps.apple.com/ke/app/kuza-africa/id1662784344">https://apps.apple.com/ke/app/kuza-africa/id1662784344</a> for iPhones (can also get it on the App Store) then
           <br/>ii. Follow the on-screen instructions to create your account.
           <br/>iii. Complete the registration process by providing the necessary information.
           <br/><br/>
